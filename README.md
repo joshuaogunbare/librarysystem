@@ -1,5 +1,5 @@
 # librarysystem
-This project is a dynamic book reservation system that enables users to search, reserve, and manage books. It features user authentication and a search functionality built with PHP and MySQL. CRUD operations are implemented to handle books, user profiles, and reservations. The front-end is designed to be responsive using HTML and CSS. The database is managed with phpMyAdmin, ensuring data integrity and maintaining the relationships between users, books, and reservations.
+This project is a dynamic book reservation system that enables users to search, reserve, and manage books while supporting secure user authentication, session handling and a search functionality built with PHP and MySQL. CRUD operations are implemented to handle books, user profiles, and reservations. The application is developed using PHP (server-side scripting), MySQL, and phpMyAdmin for database management. Session management is implemented to maintain user state securely across pages. Users can register, log in, and manage their book reservations.
 
 
 
